@@ -1,0 +1,64 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6f004e605f18ee9b3b643370108e1504",
+    "packages": [
+        {
+            "name": "davidpersson/beanstalk",
+            "version": "v2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/davidpersson/beanstalk.git",
+                "reference": "3ac94072eed8e96f4b8a28d0c3319ed961fa0a7d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://files.phpcomposer.com/files/davidpersson/beanstalk/3ac94072eed8e96f4b8a28d0c3319ed961fa0a7d.zip",
+                "reference": "3ac94072eed8e96f4b8a28d0c3319ed961fa0a7d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=4.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beanstalk\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Persson",
+                    "email": "davidpersson@gmx.de"
+                }
+            ],
+            "description": "Minimalistic PHP client for beanstalkd.",
+            "homepage": "https://github.com/davidpersson/beanstalk",
+            "keywords": [
+                "Socket",
+                "beanstalk",
+                "beanstalkd",
+                "queue"
+            ],
+            "time": "2015-01-13T13:19:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

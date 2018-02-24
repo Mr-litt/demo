@@ -1,0 +1,25 @@
+{
+    "name": "davidpersson/beanstalk",
+    "description": "Minimalistic PHP client for beanstalkd.",
+    "keywords": ["queue", "socket", "beanstalk", "beanstalkd"],
+    "homepage": "https://github.com/davidpersson/beanstalk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Persson",
+            "email": "davidpersson@gmx.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.0.0"
+    },
+    "suggests": {
+      "monolog/monolog": "This or any other PSR-3 logger can be used to enable logging."
+    },
+    "autoload": {
+        "psr-4": { "Beanstalk\\": "src/" }
+    }
+}

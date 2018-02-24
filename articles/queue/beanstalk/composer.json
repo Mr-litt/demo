@@ -1,0 +1,5 @@
+{
+    "require": {
+        "davidpersson/beanstalk": "^2.0"
+    }
+}
