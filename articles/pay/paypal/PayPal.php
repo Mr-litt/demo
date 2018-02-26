@@ -73,6 +73,7 @@ class PayPal
 
     /**
      * PayPal通过即时付款通知 (IPN)机制通知
+     * 即时付款通知 @see https://www.paypal.com/en/cgi-bin/webscr?cmd=p/acc/ipn-info-outside
      * @return bool
      */
     public function notify()
