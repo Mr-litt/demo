@@ -30,7 +30,7 @@ switch ($command) {
 class Worker
 {
 
-    public $count = 1; //子进程数
+    public $count = 4; //子进程数
     public $localSocket = 'tcp://0.0.0.0:2345'; // 监听地址
     public $onMessage = null; // 处理函数
     
@@ -48,7 +48,7 @@ class Worker
         if (!$this->onMessage) { // 默认处理
             $this->onMessage = function($connection)
             {
-                var_dump($_GET, $_POST, $_COOKIE, $_SESSION, $_SERVER, $_FILES);
+                //var_dump($_GET, $_POST, $_COOKIE, $_SESSION, $_SERVER, $_FILES);
                 // 发送数据给客户端
                 $connection->sendData("hello world \n");
             };
@@ -79,8 +79,6 @@ class Worker
         $errno = 0;
         $errmsg = '';
         $socket = stream_socket_server($this->localSocket, $errno, $errmsg);
-        $this->socket = $socket;
-
 
         // 尝试打开KeepAlive TCP和禁用Nagle算法。
         if (function_exists('socket_import_stream')) {
@@ -91,6 +89,7 @@ class Worker
 
         // Non blocking.
         stream_set_blocking($socket, 0);
+        $this->socket = $socket;
 
         // 创建count个子进程，用于接受请求和处理数据
         while(count($this->forkArr) < $this->count) {
@@ -207,13 +206,13 @@ class Worker
      */
     public function acceptConnect($socket, $events, $arg)
     {
-        echo "acceptConnect\n";
         $newSocket = @stream_socket_accept($socket, 0, $remote_address); // 第二个参数设置0，不堵塞，未获取到会警告
         //有一个连接过来时，子进程都会触发本函数，但只有一个子进程获取到连接并处理
         if (!$newSocket) {
             return;
         }
 
+        echo "acceptConnect\n";
         $this->connectionCount++;
 
         stream_set_blocking($newSocket, 0);
@@ -241,7 +240,7 @@ class Worker
         $this->newSocket = $newSocket;
         // http服务器（HTTP1.1默认使用keep-alive保持连接）
         $buffer = @fread($newSocket,65535); //获取数据
-        echo "获取客户端数据:{$buffer}\n";
+        //echo "获取客户端数据:{$buffer}\n";
         if ($buffer === '' || $buffer === false) {
             if (feof($newSocket) || !is_resource($newSocket) || $buffer === false) {
                 echo "客户端关闭\n";
