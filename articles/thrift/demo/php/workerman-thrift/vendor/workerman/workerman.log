@@ -1,0 +1,705 @@
+2018-02-12 18:51:39 pid:1685 Workerman[start.php] start in DEBUG mode
+2018-02-12 18:51:40 pid:1685 Workerman[start.php] stopping ...
+2018-02-12 18:51:40 pid:1685 Workerman[start.php] has been stopped
+2018-02-12 18:54:52 pid:1710 Workerman[start.php] start in DEBUG mode
+2018-02-12 18:54:52 pid:1715 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1716 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1717 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1718 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1719 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1720 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1722 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1721 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1723 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1724 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1725 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1727 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1726 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1729 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1728 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:54:52 pid:1730 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 18:55:11 pid:1710 Workerman[start.php] stopping ...
+2018-02-12 18:55:11 pid:1710 Workerman[start.php] has been stopped
+2018-02-12 19:02:55 pid:1748 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:02:55 pid:1753 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1761 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1759 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1766 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1767 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1755 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1754 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1758 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1756 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1757 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1760 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1765 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1762 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1763 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1764 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1767] exit with status 65280
+2018-02-12 19:02:55 pid:1748 worker[none:1766] exit with status 65280
+2018-02-12 19:02:55 pid:1768 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1769 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1765] exit with status 65280
+2018-02-12 19:02:55 pid:1770 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1764] exit with status 65280
+2018-02-12 19:02:55 pid:1771 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1768] exit with status 65280
+2018-02-12 19:02:55 pid:1772 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1769] exit with status 65280
+2018-02-12 19:02:55 pid:1748 worker[none:1770] exit with status 65280
+2018-02-12 19:02:55 pid:1774 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1773 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1763] exit with status 65280
+2018-02-12 19:02:55 pid:1775 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1776 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1772] exit with status 65280
+2018-02-12 19:02:55 pid:1748 worker[none:1774] exit with status 65280
+2018-02-12 19:02:55 pid:1748 worker[none:1775] exit with status 65280
+2018-02-12 19:02:55 pid:1778 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1779 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1773] exit with status 65280
+2018-02-12 19:02:55 pid:1777 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:55 pid:1748 worker[none:1776] exit with status 65280
+2018-02-12 19:02:56 pid:1780 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1771] exit with status 65280
+2018-02-12 19:02:56 pid:1781 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1779] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1778] exit with status 65280
+2018-02-12 19:02:56 pid:1782 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1783 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1777] exit with status 65280
+2018-02-12 19:02:56 pid:1784 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1781] exit with status 65280
+2018-02-12 19:02:56 pid:1785 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1780] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1783] exit with status 65280
+2018-02-12 19:02:56 pid:1787 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1786 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1784] exit with status 65280
+2018-02-12 19:02:56 pid:1789 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1788 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1785] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1786] exit with status 65280
+2018-02-12 19:02:56 pid:1790 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1789] exit with status 65280
+2018-02-12 19:02:56 pid:1791 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1788] exit with status 65280
+2018-02-12 19:02:56 pid:1792 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1787] exit with status 65280
+2018-02-12 19:02:56 pid:1793 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1790] exit with status 65280
+2018-02-12 19:02:56 pid:1794 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1792] exit with status 65280
+2018-02-12 19:02:56 pid:1795 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1796 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1791] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1793] exit with status 65280
+2018-02-12 19:02:56 pid:1797 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1798 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1794] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1795] exit with status 65280
+2018-02-12 19:02:56 pid:1799 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1796] exit with status 65280
+2018-02-12 19:02:56 pid:1800 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1798] exit with status 65280
+2018-02-12 19:02:56 pid:1801 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1802 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1797] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1800] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1799] exit with status 65280
+2018-02-12 19:02:56 pid:1803 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1804 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1805 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1782] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1802] exit with status 65280
+2018-02-12 19:02:56 pid:1806 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1801] exit with status 65280
+2018-02-12 19:02:56 pid:1807 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1805] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1804] exit with status 65280
+2018-02-12 19:02:56 pid:1809 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1808 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1806] exit with status 65280
+2018-02-12 19:02:56 pid:1810 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1807] exit with status 65280
+2018-02-12 19:02:56 pid:1811 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1812 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1803] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1810] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1809] exit with status 65280
+2018-02-12 19:02:56 pid:1813 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1808] exit with status 65280
+2018-02-12 19:02:56 pid:1814 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1815 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1816 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1812] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1813] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1811] exit with status 65280
+2018-02-12 19:02:56 pid:1818 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1817 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1819 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1815] exit with status 65280
+2018-02-12 19:02:56 pid:1820 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1816] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1819] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1818] exit with status 65280
+2018-02-12 19:02:56 pid:1821 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1822 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1817] exit with status 65280
+2018-02-12 19:02:56 pid:1823 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1820] exit with status 65280
+2018-02-12 19:02:56 pid:1824 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1821] exit with status 65280
+2018-02-12 19:02:56 pid:1825 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1822] exit with status 65280
+2018-02-12 19:02:56 pid:1827 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1826 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1823] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1825] exit with status 65280
+2018-02-12 19:02:56 pid:1829 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1824] exit with status 65280
+2018-02-12 19:02:56 pid:1828 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1827] exit with status 65280
+2018-02-12 19:02:56 pid:1830 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1826] exit with status 65280
+2018-02-12 19:02:56 pid:1831 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1814] exit with status 65280
+2018-02-12 19:02:56 pid:1832 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1829] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1828] exit with status 65280
+2018-02-12 19:02:56 pid:1833 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1834 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1762] exit with status 65280
+2018-02-12 19:02:56 pid:1835 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1833] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1832] exit with status 65280
+2018-02-12 19:02:56 pid:1836 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1837 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1834] exit with status 65280
+2018-02-12 19:02:56 pid:1838 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1836] exit with status 65280
+2018-02-12 19:02:56 pid:1839 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1838] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1837] exit with status 65280
+2018-02-12 19:02:56 pid:1840 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1841 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1835] exit with status 65280
+2018-02-12 19:02:56 pid:1842 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1839] exit with status 65280
+2018-02-12 19:02:56 pid:1843 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1841] exit with status 65280
+2018-02-12 19:02:56 pid:1844 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1845 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1840] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1843] exit with status 65280
+2018-02-12 19:02:56 pid:1846 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1842] exit with status 65280
+2018-02-12 19:02:56 pid:1847 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1844] exit with status 65280
+2018-02-12 19:02:56 pid:1848 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1846] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1845] exit with status 65280
+2018-02-12 19:02:56 pid:1849 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1850 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1848] exit with status 65280
+2018-02-12 19:02:56 pid:1851 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1847] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1831] exit with status 65280
+2018-02-12 19:02:56 pid:1852 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1850] exit with status 65280
+2018-02-12 19:02:56 pid:1853 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1854 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1849] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1853] exit with status 65280
+2018-02-12 19:02:56 pid:1855 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1857 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1856 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1748 worker[none:1852] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1855] exit with status 65280
+2018-02-12 19:02:56 pid:1748 worker[none:1854] exit with status 65280
+2018-02-12 19:02:56 pid:1858 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:56 pid:1859 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1857] exit with status 65280
+2018-02-12 19:02:57 pid:1860 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1861 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1856] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1859] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1860] exit with status 65280
+2018-02-12 19:02:57 pid:1862 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1863 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1864 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1858] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1862] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1861] exit with status 65280
+2018-02-12 19:02:57 pid:1866 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1867 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1851] exit with status 65280
+2018-02-12 19:02:57 pid:1865 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1868 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1864] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1867] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1866] exit with status 65280
+2018-02-12 19:02:57 pid:1869 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1870 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1865] exit with status 65280
+2018-02-12 19:02:57 pid:1871 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1868] exit with status 65280
+2018-02-12 19:02:57 pid:1872 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1871] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1870] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1869] exit with status 65280
+2018-02-12 19:02:57 pid:1873 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1875 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1876 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1874 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1863] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1875] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1876] exit with status 65280
+2018-02-12 19:02:57 pid:1877 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1878 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1873] exit with status 65280
+2018-02-12 19:02:57 pid:1879 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1880 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1874] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1878] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1879] exit with status 65280
+2018-02-12 19:02:57 pid:1881 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1882 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1880] exit with status 65280
+2018-02-12 19:02:57 pid:1883 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1884 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1877] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1882] exit with status 65280
+2018-02-12 19:02:57 pid:1885 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1881] exit with status 65280
+2018-02-12 19:02:57 pid:1886 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1887 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1883] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1885] exit with status 65280
+2018-02-12 19:02:57 pid:1889 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1888 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1884] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1887] exit with status 65280
+2018-02-12 19:02:57 pid:1890 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1886] exit with status 65280
+2018-02-12 19:02:57 pid:1891 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1889] exit with status 65280
+2018-02-12 19:02:57 pid:1892 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1893 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1888] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1891] exit with status 65280
+2018-02-12 19:02:57 pid:1894 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1895 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1890] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1893] exit with status 65280
+2018-02-12 19:02:57 pid:1896 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1897 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1892] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1895] exit with status 65280
+2018-02-12 19:02:57 pid:1898 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1894] exit with status 65280
+2018-02-12 19:02:57 pid:1899 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1897] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1896] exit with status 65280
+2018-02-12 19:02:57 pid:1900 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1901 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1902 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1872] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1900] exit with status 65280
+2018-02-12 19:02:57 pid:1903 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1902] exit with status 65280
+2018-02-12 19:02:57 pid:1904 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1901] exit with status 65280
+2018-02-12 19:02:57 pid:1905 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1906 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1899] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1904] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1905] exit with status 65280
+2018-02-12 19:02:57 pid:1907 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1908 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1903] exit with status 65280
+2018-02-12 19:02:57 pid:1909 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1910 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1906] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1908] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1909] exit with status 65280
+2018-02-12 19:02:57 pid:1911 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1912 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1913 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1910] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1911] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1912] exit with status 65280
+2018-02-12 19:02:57 pid:1915 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1914 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1907] exit with status 65280
+2018-02-12 19:02:57 pid:1916 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1913] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1898] exit with status 65280
+2018-02-12 19:02:57 pid:1917 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1916] exit with status 65280
+2018-02-12 19:02:57 pid:1918 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1919 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1830] exit with status 65280
+2018-02-12 19:02:57 pid:1920 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1915] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1761] exit with status 65280
+2018-02-12 19:02:57 pid:1921 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1922 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1918] exit with status 65280
+2018-02-12 19:02:57 pid:1924 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1923 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1920] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1922] exit with status 65280
+2018-02-12 19:02:57 pid:1925 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1926 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1921] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1924] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1919] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1917] exit with status 65280
+2018-02-12 19:02:57 pid:1927 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1929 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1928 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1930 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1914] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1927] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1930] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1929] exit with status 65280
+2018-02-12 19:02:57 pid:1931 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1933 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1932 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1934 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1748 worker[none:1928] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1933] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1932] exit with status 65280
+2018-02-12 19:02:57 pid:1748 worker[none:1934] exit with status 65280
+2018-02-12 19:02:57 pid:1935 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:57 pid:1937 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1938 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1936 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 worker[none:1931] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1926] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1925] exit with status 65280
+2018-02-12 19:02:58 pid:1940 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1941 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 worker[none:1937] exit with status 65280
+2018-02-12 19:02:58 pid:1939 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 worker[none:1938] exit with status 65280
+2018-02-12 19:02:58 pid:1942 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 worker[none:1941] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1939] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1940] exit with status 65280
+2018-02-12 19:02:58 pid:1943 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1946 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1945 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1944 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 worker[none:1936] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1943] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1942] exit with status 65280
+2018-02-12 19:02:58 pid:1948 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1947 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1949 Worker process terminated with ERROR: E_ERROR "Interface 'demo\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserSericeHandler.php on line 13"
+2018-02-12 19:02:58 pid:1748 Workerman[start.php] stopping ...
+2018-02-12 19:02:58 pid:1748 worker[none:1946] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1945] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1944] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1935] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1923] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1760] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1759] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1758] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1757] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1756] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1755] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1754] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1753] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1948] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1947] exit with status 65280
+2018-02-12 19:02:58 pid:1748 worker[none:1949] exit with status 65280
+2018-02-12 19:02:58 pid:1748 Workerman[start.php] has been stopped
+2018-02-12 19:08:11 pid:1980 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:08:11 pid:1985 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1987 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1986 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1988 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1989 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1992 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1990 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1991 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1994 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1993 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1995 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1996 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1997 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1998 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:1999 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:11 pid:2000 Class \Services\UserService\UserServiceProcessor not found
+2018-02-12 19:08:14 pid:1980 Workerman[start.php] stopping ...
+2018-02-12 19:08:14 pid:1980 Workerman[start.php] has been stopped
+2018-02-12 19:18:09 pid:2004 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:18:09 pid:2009 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2010 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2011 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2012 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2013 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2014 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2015 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2016 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2017 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2018 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2019 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2020 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2021 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2022 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2023 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:09 pid:2024 Class \Services\\UserServiceProcessor not found
+2018-02-12 19:18:13 pid:2004 Workerman[start.php] stopping ...
+2018-02-12 19:18:13 pid:2004 Workerman[start.php] has been stopped
+2018-02-12 19:21:34 pid:2026 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:21:34 pid:2034 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2044 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2035 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2036 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2038 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2033 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2041 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2038] exit with status 65280
+2018-02-12 19:21:34 pid:2032 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2043 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2042 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2031 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2037 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2045 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2035] exit with status 65280
+2018-02-12 19:21:34 pid:2048 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2046 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2047 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2039 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2045] exit with status 65280
+2018-02-12 19:21:34 pid:2040 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2048] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2047] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2046] exit with status 65280
+2018-02-12 19:21:34 pid:2050 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2044] exit with status 65280
+2018-02-12 19:21:34 pid:2051 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2053 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2052 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2043] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2050] exit with status 65280
+2018-02-12 19:21:34 pid:2054 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2055 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2042] exit with status 65280
+2018-02-12 19:21:34 pid:2049 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2051] exit with status 65280
+2018-02-12 19:21:34 pid:2056 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2041] exit with status 65280
+2018-02-12 19:21:34 pid:2057 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2055] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2054] exit with status 65280
+2018-02-12 19:21:34 pid:2058 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2057] exit with status 65280
+2018-02-12 19:21:34 pid:2060 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2059 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2056] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2053] exit with status 65280
+2018-02-12 19:21:34 pid:2062 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2060] exit with status 65280
+2018-02-12 19:21:34 pid:2061 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2063 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2064 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2059] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2062] exit with status 65280
+2018-02-12 19:21:34 pid:2065 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2064] exit with status 65280
+2018-02-12 19:21:34 pid:2066 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2063] exit with status 65280
+2018-02-12 19:21:34 pid:2067 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2061] exit with status 65280
+2018-02-12 19:21:34 pid:2068 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2066] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2067] exit with status 65280
+2018-02-12 19:21:34 pid:2069 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2065] exit with status 65280
+2018-02-12 19:21:34 pid:2070 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2072 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2071 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2058] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2070] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2069] exit with status 65280
+2018-02-12 19:21:34 pid:2073 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2072] exit with status 65280
+2018-02-12 19:21:34 pid:2074 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2071] exit with status 65280
+2018-02-12 19:21:34 pid:2075 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2076 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2077 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2068] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2075] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2074] exit with status 65280
+2018-02-12 19:21:34 pid:2078 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2079 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2080 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2073] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2077] exit with status 65280
+2018-02-12 19:21:34 pid:2081 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2078] exit with status 65280
+2018-02-12 19:21:34 pid:2082 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2080] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2079] exit with status 65280
+2018-02-12 19:21:34 pid:2083 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2084 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2081] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2082] exit with status 65280
+2018-02-12 19:21:34 pid:2085 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2086 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2076] exit with status 65280
+2018-02-12 19:21:34 pid:2087 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2085] exit with status 65280
+2018-02-12 19:21:34 pid:2089 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2088 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2026 worker[none:2084] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2089] exit with status 65280
+2018-02-12 19:21:34 pid:2026 worker[none:2087] exit with status 65280
+2018-02-12 19:21:34 pid:2090 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2091 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:34 pid:2092 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2086] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2083] exit with status 65280
+2018-02-12 19:21:35 pid:2093 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2091] exit with status 65280
+2018-02-12 19:21:35 pid:2094 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2095 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2052] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2092] exit with status 65280
+2018-02-12 19:21:35 pid:2096 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2090] exit with status 65280
+2018-02-12 19:21:35 pid:2097 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2095] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2094] exit with status 65280
+2018-02-12 19:21:35 pid:2098 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2099 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2093] exit with status 65280
+2018-02-12 19:21:35 pid:2100 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2097] exit with status 65280
+2018-02-12 19:21:35 pid:2101 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2099] exit with status 65280
+2018-02-12 19:21:35 pid:2102 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2098] exit with status 65280
+2018-02-12 19:21:35 pid:2103 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2101] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2100] exit with status 65280
+2018-02-12 19:21:35 pid:2105 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2104 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2096] exit with status 65280
+2018-02-12 19:21:35 pid:2106 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2103] exit with status 65280
+2018-02-12 19:21:35 pid:2107 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2102] exit with status 65280
+2018-02-12 19:21:35 pid:2108 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2105] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2106] exit with status 65280
+2018-02-12 19:21:35 pid:2109 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2107] exit with status 65280
+2018-02-12 19:21:35 pid:2110 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2111 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2112 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2104] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2109] exit with status 65280
+2018-02-12 19:21:35 pid:2113 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2110] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2112] exit with status 65280
+2018-02-12 19:21:35 pid:2115 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2114 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2116 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2111] exit with status 65280
+2018-02-12 19:21:35 pid:2117 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2115] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2113] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2108] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2116] exit with status 65280
+2018-02-12 19:21:35 pid:2118 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2119 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2121 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2120 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2088] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2119] exit with status 65280
+2018-02-12 19:21:35 pid:2122 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2026 worker[none:2118] exit with status 65280
+2018-02-12 19:21:35 pid:2026 worker[none:2121] exit with status 65280
+2018-02-12 19:21:35 pid:2124 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2123 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:21:35 pid:2125 Worker process terminated with ERROR: E_ERROR "Interface 'UserService\UserServiceIf' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php on line 29"
+2018-02-12 19:32:42 pid:2160 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:34:10 pid:2173 CODE:0 MESSAGE:TSocket read 0 bytes
+#0 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TTransport.php(74): Thrift\Transport\TSocket->read(1)
+#1 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TBufferedTransport.php(113): Thrift\Transport\TTransport->readAll(1)
+#2 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(289): Thrift\Transport\TBufferedTransport->readAll(1)
+#3 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(215): Thrift\Protocol\TBinaryProtocol->readByte(0)
+#4 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php(295): Thrift\Protocol\TBinaryProtocol->readMessageBegin('\x80\x01\x00\x01\x00\x00\x00\x08userLis...', 0, 0)
+#5 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/ThriftWorker.php(143): Services\UserService\UserServiceProcessor->process(Object(Thrift\Protocol\TBinaryProtocol), Object(Thrift\Protocol\TBinaryProtocol))
+#6 [internal function]: ThriftWorker->onConnect(Object(Workerman\Connection\TcpConnection))
+#7 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2162): call_user_func(Array, Object(Workerman\Connection\TcpConnection))
+#8 [internal function]: Workerman\Worker->acceptConnection(Resource id #38, 2, NULL)
+#9 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Events/Libevent.php(202): event_base_loop(Resource id #43)
+#10 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Libevent->loop()
+#11 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#12 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(ThriftWorker))
+#13 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#14 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#15 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/start.php(32): Workerman\Worker::runAll()
+#16 {main}
+CLIENT_IP:127.0.0.1
+
+2018-02-12 19:35:56 pid:2178 CODE:0 MESSAGE:TSocket read 0 bytes
+#0 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TTransport.php(74): Thrift\Transport\TSocket->read(4)
+#1 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TBufferedTransport.php(113): Thrift\Transport\TTransport->readAll(4)
+#2 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(306): Thrift\Transport\TBufferedTransport->readAll(4)
+#3 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(197): Thrift\Protocol\TBinaryProtocol->readI32(NULL)
+#4 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php(295): Thrift\Protocol\TBinaryProtocol->readMessageBegin(NULL, 0, 0)
+#5 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/ThriftWorker.php(143): Services\UserService\UserServiceProcessor->process(Object(Thrift\Protocol\TBinaryProtocol), Object(Thrift\Protocol\TBinaryProtocol))
+#6 [internal function]: ThriftWorker->onConnect(Object(Workerman\Connection\TcpConnection))
+#7 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2162): call_user_func(Array, Object(Workerman\Connection\TcpConnection))
+#8 [internal function]: Workerman\Worker->acceptConnection(Resource id #38, 2, NULL)
+#9 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Events/Libevent.php(202): event_base_loop(Resource id #43)
+#10 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Libevent->loop()
+#11 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#12 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(ThriftWorker))
+#13 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#14 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#15 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/start.php(32): Workerman\Worker::runAll()
+#16 {main}
+CLIENT_IP:127.0.0.1
+
+2018-02-12 19:36:11 pid:2178 CODE:0 MESSAGE:TSocket read 0 bytes
+#0 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TTransport.php(74): Thrift\Transport\TSocket->read(1)
+#1 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Transport/TBufferedTransport.php(113): Thrift\Transport\TTransport->readAll(1)
+#2 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(289): Thrift\Transport\TBufferedTransport->readAll(1)
+#3 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Lib/Thrift/Protocol/TBinaryProtocol.php(215): Thrift\Protocol\TBinaryProtocol->readByte(0)
+#4 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserService.php(295): Thrift\Protocol\TBinaryProtocol->readMessageBegin('\x80\x01\x00\x01\x00\x00\x00\x08userLis...', 0, 0)
+#5 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/ThriftWorker.php(143): Services\UserService\UserServiceProcessor->process(Object(Thrift\Protocol\TBinaryProtocol), Object(Thrift\Protocol\TBinaryProtocol))
+#6 [internal function]: ThriftWorker->onConnect(Object(Workerman\Connection\TcpConnection))
+#7 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2162): call_user_func(Array, Object(Workerman\Connection\TcpConnection))
+#8 [internal function]: Workerman\Worker->acceptConnection(Resource id #38, 2, NULL)
+#9 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Events/Libevent.php(202): event_base_loop(Resource id #43)
+#10 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Libevent->loop()
+#11 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#12 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(ThriftWorker))
+#13 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#14 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#15 /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/start.php(32): Workerman\Worker::runAll()
+#16 {main}
+CLIENT_IP:127.0.0.1
+
+2018-02-12 19:36:50 pid:2176 Worker process terminated with ERROR: E_ERROR "Class 'UserService\ErrCodeEnum' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserServiceHandler.php on line 56"
+2018-02-12 19:36:50 pid:2160 worker[none:2176] exit with status 65280
+2018-02-12 19:37:10 pid:2178 Worker process terminated with ERROR: E_ERROR "Class 'UserService\UserInfo' not found in /Users/yuanchang/code/php/github/thrift_demo/php/workerman-thrift/Applications/ThriftRpc/Services/UserService/UserServiceHandler.php on line 65"
+2018-02-12 19:37:10 pid:2160 worker[none:2178] exit with status 65280
+2018-02-12 19:39:17 pid:2160 Workerman[start.php] stopping ...
+2018-02-12 19:39:17 pid:2160 Workerman[start.php] has been stopped
+2018-02-12 19:40:13 pid:2201 Workerman[start.php] start in DEBUG mode
+2018-02-12 19:52:26 pid:2201 Workerman[start.php] stopping ...
+2018-02-12 19:52:26 pid:2201 Workerman[start.php] has been stopped
+2018-02-12 21:25:00 pid:2390 Workerman[start.php] start in DEBUG mode
+2018-02-13 10:10:17 pid:2390 Workerman[start.php] stopping ...
+2018-02-13 10:10:17 pid:2390 Workerman[start.php] has been stopped
