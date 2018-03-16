@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>公众号支付</title>
+</head>
+<body>
+<div id="transactionId">待付款订单号</div>
+<button id="pay">点击支付</button>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+<script>
+
+    /*
+    // todo...
+    // 注入权限验证配置，请求服务器接口获取
+    wx.config({
+        debug: true, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+        appId: '', // 必填，公众号的唯一标识
+        timestamp: , // 必填，生成签名的时间戳
+        nonceStr: '', // 必填，生成签名的随机串
+        signature: '',// 必填，签名
+        jsApiList: [] // 必填，需要使用的JS接口列表
+    });
+    */
+
+    $("#pay").click(function(){
+        // 请求接口创建订单
+        $.ajax({
+            url: "/wx/pay",
+            dataType: 'json',
+            data: {
+                payType: 'MWEB',
+                transactionId: $("#transactionId")
+            },
+            success: function( result ) {
+                if (result.code == 0 && result.data) {
+                    // 根据数据请求微信服务器发起微信支付
+
+                    // 注意服务器返回参数和文档要求参数
+                    var req = result.data;
+                    req.timestamp = req.timeStamp;
+                    delete req.timeStamp;
+                    delete req.appId;
+
+                    // 注册事件
+                    req.success = function (res) { // 支付成功后的回调函数
+                        alert('支付成功');
+                    };
+                    req.cancel = function (res) { // 取消事件
+                        alert('取消支付');
+                    };
+                    req.fail = function (res) { // 支付失败
+                        alert('取消支付');
+                    };
+
+                    // 发起请求
+                    wx.chooseWXPay(req);
+                }
+            }
+        });
+    });
+</script>

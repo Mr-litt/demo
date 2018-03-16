@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微信H5支付</title>
+</head>
+<body>
+    <div id="transactionId">待付款订单号</div>
+    <button id="pay">点击支付</button>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+    $("#pay").click(function(){
+        // 请求接口创建订单
+        $.ajax({
+            url: "/wx/pay",
+            dataType: 'json',
+            data: {
+                payType: 'MWEB',
+                transactionId: $("#transactionId")
+            },
+            success: function( result ) {
+                if (result.code == 0 && result.data.link) {
+                    window.location.href = result.data.link; // 跳转请求支付
+                }
+            }
+        });
+    });
+
+</script>

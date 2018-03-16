@@ -57,10 +57,10 @@ class PayPal
             if (empty($result)) {
                 throw new Exception('插入订单失败', -3);
             }
-            $return['transactionId'] = $transactionId;
+            $data['transactionId'] = $transactionId;
 
             // 返回数据
-            $return['data'] = $return;
+            $return['data'] = $data;
             $return['code'] = 0;
             $return['msg'] = '支付成功';
         } catch (Exception $e) {
